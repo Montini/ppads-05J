@@ -1,15 +1,18 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "GESTÃO DA INOVAÇÃO"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
+
+Este documento apresenta uma solução de software para o projeto *"GESTÃO DA INOVAÇÃO"*, solicitado pelo cliente *"BANCO DO BRASIL"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
+
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Ideação: captar ideias para fomentar o processo de inovação da Ditec –
+Banco do Brasil por meio de lançamento de campanhas e desafios junto à
+comunidade de inovação.
+* Desenvolvimento de Ideias: possibilitar a maturação e seleção de ideias
+por meio de estágios, perfazendo o funil da inovação.
 
 ## Problema
 
@@ -41,14 +44,14 @@ esperadas do sistema.
 
 ## Usuários
 
-* Tipo de usuário 1
+* Tipo de usuário 1 (i.e. atendente/supervisor "tipo de usuários")
 * Tipo de usuário 2
 * Tipo de usuário 3
 * etc.
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
+* Funcionalidade 1 (calcula opções de financiamento "o que o seu sistema entrega")
 * Funcionalidade 2
 * etc.
 
