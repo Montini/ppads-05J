@@ -13,13 +13,16 @@ Banco do Brasil por meio de lançamento de campanhas e desafios junto à
 comunidade de inovação.
 * Desenvolvimento de Ideias: possibilitar a maturação e seleção de ideias
 por meio de estágios, perfazendo o funil da inovação.
+* Administração do Sistema: possibilitar a administração do sistema por
+meio de interface própria para gestão de acesso, configurações e
+parametrizações. 
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Falta de comunicação entre setores.
+* Quem é afetado pelo problema: Clientes e gestores.
+* Impacto no negócio: Alto.
+* Benefícios de uma boa solução: 
 
 ## Definições, abreviações e outros termos do domínio do problema
 
@@ -30,17 +33,15 @@ por meio de estágios, perfazendo o funil da inovação.
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* GitHub
+* Google App Engine
+* Amazon S3
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Gestores
+* Clientes
+* Terceirizados
 
 ## Usuários
 
