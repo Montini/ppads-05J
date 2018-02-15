@@ -2,11 +2,10 @@
 
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Sergio A. Montini Jr TIA 41427981
+* Dara Cedraz TIA 31520251
+* Adriano Santos TIA 41587634
+* Leticia 
 
 # Documentos
 
